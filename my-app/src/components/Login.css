@@ -1,0 +1,18 @@
+.login-section {
+    padding-top:300px;
+    padding-bottom:100px;
+}
+
+.login-design-box {
+    background-color: rgb(170, 190, 184);
+    border-radius: 5px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+h1.login-title {
+    color: white;
+    font-size: 60px;
+}
